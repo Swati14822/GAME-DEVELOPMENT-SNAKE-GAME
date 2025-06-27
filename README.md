@@ -87,4 +87,5 @@ The Snake Game project demonstrates foundational game development skills using S
 
 ---
 *OUTPUT*
+![Image](https://github.com/user-attachments/assets/2d18a940-cffc-4e62-80db-d923fdd5ec96)
 
